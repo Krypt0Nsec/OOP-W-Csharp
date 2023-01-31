@@ -1,0 +1,15 @@
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\bin\Debug\net7.0\OOP(NesneyeYönelikProgramlama).exe
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\bin\Debug\net7.0\OOP(NesneyeYönelikProgramlama).deps.json
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\bin\Debug\net7.0\OOP(NesneyeYönelikProgramlama).runtimeconfig.json
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\bin\Debug\net7.0\OOP(NesneyeYönelikProgramlama).dll
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\bin\Debug\net7.0\OOP(NesneyeYönelikProgramlama).pdb
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\obj\Debug\net7.0\OOP(NesneyeYönelikProgramlama).csproj.AssemblyReference.cache
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\obj\Debug\net7.0\OOP(NesneyeYönelikProgramlama).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\obj\Debug\net7.0\OOP(NesneyeYönelikProgramlama).AssemblyInfoInputs.cache
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\obj\Debug\net7.0\OOP(NesneyeYönelikProgramlama).AssemblyInfo.cs
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\obj\Debug\net7.0\OOP(NesneyeYönelikProgramlama).csproj.CoreCompileInputs.cache
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\obj\Debug\net7.0\OOP(NesneyeYönelikProgramlama).dll
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\obj\Debug\net7.0\refint\OOP(NesneyeYönelikProgramlama).dll
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\obj\Debug\net7.0\OOP(NesneyeYönelikProgramlama).pdb
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\obj\Debug\net7.0\OOP(NesneyeYönelikProgramlama).genruntimeconfig.cache
+C:\Users\alper\source\C\OOP(NesneyeYönelikProgramlama)\OOP(NesneyeYönelikProgramlama)\obj\Debug\net7.0\ref\OOP(NesneyeYönelikProgramlama).dll
