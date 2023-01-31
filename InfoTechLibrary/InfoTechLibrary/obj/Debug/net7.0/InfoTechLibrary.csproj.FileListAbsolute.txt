@@ -1,0 +1,12 @@
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\bin\Debug\net7.0\InfoTechLibrary.deps.json
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\bin\Debug\net7.0\InfoTechLibrary.dll
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\bin\Debug\net7.0\InfoTechLibrary.pdb
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\obj\Debug\net7.0\InfoTechLibrary.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\obj\Debug\net7.0\InfoTechLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\obj\Debug\net7.0\InfoTechLibrary.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\obj\Debug\net7.0\InfoTechLibrary.AssemblyInfo.cs
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\obj\Debug\net7.0\InfoTechLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\obj\Debug\net7.0\InfoTechLibrary.dll
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\obj\Debug\net7.0\refint\InfoTechLibrary.dll
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\obj\Debug\net7.0\InfoTechLibrary.pdb
+C:\Users\alper\source\repos\InfoTechLibrary\InfoTechLibrary\obj\Debug\net7.0\ref\InfoTechLibrary.dll
